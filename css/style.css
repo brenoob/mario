@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background: #A0531D;
+
+}
 
 .game-board {
     width: 100%;
@@ -18,13 +22,13 @@
     position: absolute;
     bottom: 0;
     width:80px;
-    animation: pipe-animation  1.8s infinite linear;
+    animation: pipe-animation  2s infinite linear;
 }
 .goonba {
     position: absolute;
     bottom: 0;
-    width:60px;
-    animation: pipe-animation  6.8s infinite linear;
+    width:50px;
+    animation: pipe-animation  3s infinite linear;
 }
 
 .mario {
