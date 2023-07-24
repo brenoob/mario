@@ -1,8 +1,11 @@
 # mario
 jogo de mario
 
+https://brenoob.github.io/mario/
+
 controles
 pular seta para cima ou p
+
 recarregar r
 
 
